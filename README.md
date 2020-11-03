@@ -1,2 +1,2 @@
-# Data-Sceince-using-R
+# Data-Science-using-R
 Using various libraries for descriptive analytics and Data Viaualization
